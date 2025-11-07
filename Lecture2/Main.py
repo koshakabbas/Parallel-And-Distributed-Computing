@@ -1,4 +1,3 @@
-# main.py
 from MyThreadClass import MyThreadClass
 import time
 from random import randint
